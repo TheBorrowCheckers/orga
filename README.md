@@ -8,7 +8,7 @@ The central place for organizing our group is the GitHub organization [The Borro
 
 ## Meetings
 
-Information about our past and next meetings can be found in the [meedings.md](meetings.md) file.
+We usually meet on Tuesday 20:00 CE(S)T in our [Jitsi room](https://jitsi.hamburg.ccc.de/RustCodeReadingGroup). For updates, please have a look at the [discussions](https://github.com/TheBorrowCheckers/orga/discussions).
 
 ## Chat
 
